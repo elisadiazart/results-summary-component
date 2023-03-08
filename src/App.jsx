@@ -1,5 +1,8 @@
+import CardContainer from "./components/card-container/CardContainer";
+
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return <CardContainer/>
 };
 
 export default App;
